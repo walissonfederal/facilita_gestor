@@ -1,16 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bdae21d6-64dd-4cfc-ac45-28ac51dfaa22" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/_controller/error_log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/view/faturamento/error_log" beforeDir="false" />
-    </list>
+    <list default="true" id="bdae21d6-64dd-4cfc-ac45-28ac51dfaa22" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/_phpexcel/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -56,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1614281420572</updated>
       <workItem from="1614281421900" duration="464000" />
+      <workItem from="1614281972270" duration="532000" />
     </task>
     <servers />
   </component>

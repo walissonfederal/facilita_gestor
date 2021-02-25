@@ -1,5 +1,9 @@
 ﻿<?php
-require_once __DIR__.'/../../../configuracao_infor.php';
+
+    define('HOSTFAC', 'localhost');
+    define('USERFAC', 'appfeder_facilita');
+    define('PASSFAC', 'cnsa@020459ok');
+    define('DSBAFAC', 'appfeder_facilita');
 
 /*require_once('d4sign-php-master/sdk/vendor/autoload.php');
 
