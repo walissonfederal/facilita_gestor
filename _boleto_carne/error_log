@@ -1,0 +1,284 @@
+[04-Jul-2019 20:23:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[04-Jul-2019 20:23:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[04-Jul-2019 20:28:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[04-Jul-2019 20:28:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[05-Jul-2019 17:01:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[05-Jul-2019 17:01:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[23-Jul-2019 18:48:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[23-Jul-2019 18:48:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[25-Jul-2019 19:05:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[25-Jul-2019 19:05:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[26-Jul-2019 19:50:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[26-Jul-2019 19:50:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[30-Jul-2019 16:44:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[30-Jul-2019 16:44:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[30-Jul-2019 16:46:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[30-Jul-2019 16:46:09 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[30-Jul-2019 19:40:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[30-Jul-2019 19:40:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[01-Aug-2019 12:06:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[01-Aug-2019 12:06:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[01-Aug-2019 20:56:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[01-Aug-2019 20:56:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[02-Aug-2019 13:08:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[02-Aug-2019 13:08:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[02-Aug-2019 19:50:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[02-Aug-2019 19:50:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[05-Aug-2019 11:41:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[05-Aug-2019 11:41:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[06-Aug-2019 11:59:28 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[06-Aug-2019 11:59:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[07-Aug-2019 17:21:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[07-Aug-2019 17:21:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[19-Aug-2019 20:17:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[19-Aug-2019 20:17:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[19-Aug-2019 20:26:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[19-Aug-2019 20:26:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[28-Aug-2019 10:44:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[28-Aug-2019 10:44:05 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[04-Sep-2019 14:03:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[04-Sep-2019 14:03:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[09-Sep-2019 14:24:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[09-Sep-2019 14:24:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[09-Sep-2019 20:21:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[09-Sep-2019 20:21:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-Sep-2019 11:47:43 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[11-Sep-2019 11:47:43 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-Sep-2019 18:47:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[11-Sep-2019 18:47:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[16-Sep-2019 11:03:32 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[16-Sep-2019 11:03:32 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[16-Sep-2019 11:03:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[16-Sep-2019 11:03:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[16-Sep-2019 11:16:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[16-Sep-2019 11:16:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[16-Sep-2019 19:34:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[16-Sep-2019 19:34:34 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[17-Sep-2019 14:50:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[17-Sep-2019 14:50:16 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[18-Sep-2019 12:19:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[18-Sep-2019 12:19:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[18-Sep-2019 18:25:46 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[18-Sep-2019 18:25:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[18-Sep-2019 19:18:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[18-Sep-2019 19:18:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[18-Sep-2019 19:18:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[18-Sep-2019 19:18:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[19-Sep-2019 13:29:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[19-Sep-2019 13:29:11 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[21-Sep-2019 12:56:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[21-Sep-2019 12:56:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[24-Sep-2019 20:16:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[24-Sep-2019 20:16:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[05-Oct-2019 14:01:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[05-Oct-2019 14:01:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[07-Oct-2019 14:45:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[07-Oct-2019 14:45:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[08-Oct-2019 16:51:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[08-Oct-2019 16:51:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[09-Oct-2019 19:32:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[09-Oct-2019 19:32:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[10-Oct-2019 11:23:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[10-Oct-2019 11:23:30 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[29-Oct-2019 18:39:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[29-Oct-2019 18:39:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[05-Nov-2019 11:10:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[05-Nov-2019 11:10:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[06-Nov-2019 12:25:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[06-Nov-2019 12:25:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-Nov-2019 11:31:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[11-Nov-2019 11:31:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-Nov-2019 12:47:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[11-Nov-2019 12:47:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-Nov-2019 15:06:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[11-Nov-2019 15:06:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[22-Nov-2019 11:26:50 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[22-Nov-2019 11:26:50 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[25-Nov-2019 16:37:23 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[25-Nov-2019 16:37:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[27-Nov-2019 15:10:00 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[27-Nov-2019 15:10:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[02-Dec-2019 17:24:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[02-Dec-2019 17:24:45 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[05-Dec-2019 17:17:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[05-Dec-2019 17:17:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[16-Dec-2019 11:17:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[16-Dec-2019 11:17:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[03-Jan-2020 13:12:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[03-Jan-2020 13:12:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[09-Jan-2020 12:55:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[09-Jan-2020 12:55:51 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[09-Jan-2020 14:58:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[09-Jan-2020 14:58:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[09-Jan-2020 15:00:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[09-Jan-2020 15:00:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[13-Jan-2020 11:25:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[13-Jan-2020 11:25:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[13-Jan-2020 19:20:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[13-Jan-2020 19:20:08 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[15-Jan-2020 20:48:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[15-Jan-2020 20:48:56 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[16-Jan-2020 18:49:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[16-Jan-2020 18:49:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[16-Jan-2020 18:49:54 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[16-Jan-2020 18:49:54 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[22-Jan-2020 14:14:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[22-Jan-2020 14:14:37 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[06-Feb-2020 17:07:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[06-Feb-2020 17:07:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-Feb-2020 08:36:00 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[11-Feb-2020 08:36:00 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[12-Feb-2020 16:23:03 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[12-Feb-2020 16:23:03 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[14-Feb-2020 10:55:27 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[14-Feb-2020 10:55:27 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[19-Feb-2020 17:18:42 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[19-Feb-2020 17:18:42 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[21-Feb-2020 08:57:52 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[21-Feb-2020 08:57:52 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[04-Mar-2020 10:47:55 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[04-Mar-2020 10:47:55 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[09-Mar-2020 10:21:28 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[09-Mar-2020 10:21:28 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[12-Mar-2020 07:02:43 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[12-Mar-2020 07:02:43 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[12-Mar-2020 07:04:00 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[12-Mar-2020 07:04:00 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[19-Mar-2020 11:51:41 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[19-Mar-2020 11:51:41 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[20-Mar-2020 14:53:57 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[20-Mar-2020 14:53:58 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[23-Mar-2020 11:54:17 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[23-Mar-2020 11:54:17 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[28-Mar-2020 11:25:30 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[28-Mar-2020 11:25:30 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[09-Apr-2020 17:13:34 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[09-Apr-2020 17:13:34 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[23-Apr-2020 10:31:44 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[23-Apr-2020 10:31:44 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[29-Apr-2020 15:07:19 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[29-Apr-2020 15:07:19 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[06-May-2020 11:39:49 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[06-May-2020 11:39:49 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-May-2020 09:13:28 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[11-May-2020 09:13:28 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-May-2020 09:56:50 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[11-May-2020 09:56:50 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[12-May-2020 09:03:22 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[12-May-2020 09:03:22 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[12-May-2020 10:01:28 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[12-May-2020 10:01:28 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[12-May-2020 11:59:58 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[12-May-2020 11:59:58 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[21-May-2020 09:35:59 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[21-May-2020 09:35:59 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[21-May-2020 18:06:29 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[21-May-2020 18:06:29 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[08-Jun-2020 14:49:40 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[08-Jun-2020 14:49:40 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[10-Jun-2020 14:37:30 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[10-Jun-2020 14:37:30 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[10-Jun-2020 14:38:58 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[10-Jun-2020 14:38:58 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[10-Jun-2020 14:39:53 America/Sao_Paulo] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[10-Jun-2020 14:39:53 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[26-Jun-2020 13:14:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 57
+[26-Jun-2020 13:14:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[26-Jun-2020 13:37:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 57
+[26-Jun-2020 13:37:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[01-Jul-2020 15:00:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 57
+[01-Jul-2020 15:00:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[10-Jul-2020 17:57:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[10-Jul-2020 17:57:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[13-Jul-2020 18:46:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[13-Jul-2020 18:46:41 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[15-Jul-2020 18:48:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[15-Jul-2020 18:48:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[17-Jul-2020 21:53:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[17-Jul-2020 21:53:10 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[18-Jul-2020 12:50:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[18-Jul-2020 12:50:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[21-Jul-2020 17:33:01 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[21-Jul-2020 17:33:01 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[21-Jul-2020 18:06:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[21-Jul-2020 18:06:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[22-Jul-2020 18:24:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[22-Jul-2020 18:24:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[29-Jul-2020 11:17:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[29-Jul-2020 11:17:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-Aug-2020 10:01:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[11-Aug-2020 10:01:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-Aug-2020 13:24:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[11-Aug-2020 13:24:33 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[19-Aug-2020 13:56:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[19-Aug-2020 13:56:22 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[20-Aug-2020 16:45:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[20-Aug-2020 16:45:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[20-Aug-2020 17:30:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[20-Aug-2020 17:30:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[25-Aug-2020 18:40:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[25-Aug-2020 18:40:39 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[26-Aug-2020 15:55:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[26-Aug-2020 15:55:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[02-Sep-2020 15:54:35 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[02-Sep-2020 15:54:35 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[14-Sep-2020 11:43:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[14-Sep-2020 11:43:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[24-Sep-2020 13:30:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[24-Sep-2020 13:30:48 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[24-Sep-2020 20:24:24 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[24-Sep-2020 20:24:24 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[02-Oct-2020 16:27:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[02-Oct-2020 16:27:42 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[14-Oct-2020 13:50:44 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[14-Oct-2020 13:50:44 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[16-Oct-2020 10:26:49 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[16-Oct-2020 10:26:49 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[30-Oct-2020 11:28:04 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[30-Oct-2020 11:28:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-Nov-2020 11:39:15 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[11-Nov-2020 11:39:15 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-Nov-2020 15:05:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[11-Nov-2020 15:05:06 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=23762 in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 21
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 83
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 83
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[11-Nov-2020 17:30:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[11-Nov-2020 19:41:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[11-Nov-2020 19:41:52 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[16-Nov-2020 16:06:53 UTC] PHP Warning:  A non-numeric value encountered in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/funcoes_cef.php on line 201
+[18-Nov-2020 19:39:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[18-Nov-2020 19:39:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[18-Nov-2020 19:39:27 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[18-Nov-2020 19:39:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[19-Nov-2020 14:23:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[19-Nov-2020 14:23:02 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[24-Nov-2020 15:12:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[24-Nov-2020 15:12:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[09-Dec-2020 13:37:55 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[09-Dec-2020 13:37:55 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[15-Dec-2020 11:39:47 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[15-Dec-2020 11:39:47 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[18-Dec-2020 11:37:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[18-Dec-2020 11:37:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[13-Jan-2021 16:35:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[13-Jan-2021 16:35:18 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[13-Jan-2021 16:35:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[13-Jan-2021 16:35:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[02-Feb-2021 18:20:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[02-Feb-2021 18:20:25 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35
+[19-Feb-2021 19:36:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[19-Feb-2021 19:36:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/federals/public_html/sis/facilita_gestor/_boleto_carne/boleto_cef.php on line 35

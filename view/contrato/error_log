@@ -1,0 +1,266 @@
+[08-Jul-2019 12:13:30 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[17-Jul-2019 18:19:19 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[17-Jul-2019 18:19:23 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[18-Jul-2019 18:16:51 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[03-Aug-2019 13:16:20 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[03-Aug-2019 13:25:41 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[31-Aug-2019 12:29:45 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[31-Aug-2019 12:30:00 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/null/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/null...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/null...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_aditivo_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('null', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[17-Sep-2019 16:57:54 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[17-Sep-2019 16:57:57 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[17-Sep-2019 16:58:02 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[17-Sep-2019 16:59:46 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[17-Sep-2019 16:59:50 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[19-Nov-2019 18:02:13 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[27-Nov-2019 18:37:19 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/null/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/null...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/null...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_aditivo_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('null', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[29-Nov-2019 19:28:54 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[29-Nov-2019 19:28:58 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[29-Nov-2019 19:29:31 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[02-Dec-2019 13:24:37 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[04-Dec-2019 23:16:36 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[18-Dec-2019 10:55:10 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/null/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/null...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/null...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_aditivo_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('null', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[18-Dec-2019 10:55:31 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/null/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/null...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/null...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_aditivo_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('null', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[27-Dec-2019 13:36:57 UTC] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_monitoramento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[05-Mar-2020 10:02:31 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[01-Apr-2020 10:56:48 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[06-Apr-2020 09:28:58 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[09-Jun-2020 10:13:13 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[09-Jun-2020 10:13:16 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'D4sign\D4signException' with message 'Expected status [200], actual status [400], URL [/documents/undefined/download]' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[19-Aug-2020 14:53:53 UTC] PHP Fatal error:  Uncaught D4sign\D4signException: Expected status [200], actual status [400], URL [/documents/undefined/download] in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federals/public_html/sis/facilita_gestor/view/contrato/download_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[19-Aug-2020 14:53:56 UTC] PHP Fatal error:  Uncaught D4sign\D4signException: Expected status [200], actual status [400], URL [/documents/undefined/download] in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federals/public_html/sis/facilita_gestor/view/contrato/download_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[19-Aug-2020 14:53:59 UTC] PHP Fatal error:  Uncaught D4sign\D4signException: Expected status [200], actual status [400], URL [/documents/undefined/download] in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federals/public_html/sis/facilita_gestor/view/contrato/download_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[19-Aug-2020 14:54:02 UTC] PHP Fatal error:  Uncaught D4sign\D4signException: Expected status [200], actual status [400], URL [/documents/undefined/download] in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federals/public_html/sis/facilita_gestor/view/contrato/download_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[23-Oct-2020 13:27:48 UTC] PHP Fatal error:  Uncaught D4sign\D4signException: Expected status [200], actual status [400], URL [/documents/null/download] in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/null...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/null...', 'POST', Array, 200)
+#2 /home/federals/public_html/sis/facilita_gestor/view/contrato/download_aditivo_contrato_rastreamento.php(9): D4sign\Services\Documents->getfileurl('null', 'zip')
+#3 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[18-Nov-2020 13:56:16 UTC] PHP Fatal error:  Uncaught D4sign\D4signException: Expected status [200], actual status [400], URL [/documents/undefined/download] in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federals/public_html/sis/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[18-Nov-2020 13:56:18 UTC] PHP Fatal error:  Uncaught D4sign\D4signException: Expected status [200], actual status [400], URL [/documents/undefined/download] in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federals/public_html/sis/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[18-Nov-2020 13:57:12 UTC] PHP Fatal error:  Uncaught D4sign\D4signException: Expected status [200], actual status [400], URL [/documents/undefined/download] in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federals/public_html/sis/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[18-Feb-2021 21:07:09 UTC] PHP Fatal error:  Uncaught D4sign\D4signException: Expected status [200], actual status [400], URL [/documents/undefined/download] in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federals/public_html/sis/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136
+[19-Feb-2021 11:22:12 UTC] PHP Fatal error:  Uncaught D4sign\D4signException: Expected status [200], actual status [400], URL [/documents/undefined/download] in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php:136
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php(99): D4sign\ClientBase->parseResponse('/documents/unde...', 'HTTP/1.1 400 Ba...', 200)
+#1 /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/Services/Documents.php(98): D4sign\ClientBase->request('/documents/unde...', 'POST', Array, 200)
+#2 /home/federals/public_html/sis/facilita_gestor/view/contrato/download_contrato_chip.php(9): D4sign\Services\Documents->getfileurl('undefined', 'zip')
+#3 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/d4sign-php-master/sdk/src/D4sign/ClientBase.php on line 136

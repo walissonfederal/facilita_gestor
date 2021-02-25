@@ -1,0 +1,9 @@
+[23-Oct-2020 13:30:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[23-Oct-2020 13:30:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[23-Oct-2020 13:30:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[23-Oct-2020 13:30:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[23-Oct-2020 13:30:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[23-Oct-2020 13:30:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[23-Oct-2020 13:30:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[23-Oct-2020 13:30:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[23-Oct-2020 13:30:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59

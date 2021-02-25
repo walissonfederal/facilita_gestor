@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<config>
+    <environment>production</environment><!-- sandbox or production -->
+    <credentials>
+        <account>
+            <email>diretor@federalsistemas.com.br</email>
+            <production>
+                <token>0D030D7D46974E8696AFF12AF7B2BF74</token>
+            </production>
+            <sandbox>
+                <token>A567B5B7CB4B4389BFC3862DA5839CF2</token>
+            </sandbox>
+        </account>
+        <application>
+            <production>
+                <appId>erp-federal-sistemas</appId>
+                <appKey>D3B5FE4508087F3994A5EFA915100731</appKey>
+            </production>
+            <sandbox>
+                <appId>app2427304518</appId>
+                <appKey>8F49C1F2AAAA2BEEE4138FBE9B19F665</appKey>
+            </sandbox>
+        </application>
+    </credentials>
+    <charset>UTF-8</charset>
+    <log>
+        <active>false</active>
+        <location>/</location>
+    </log>
+</config>

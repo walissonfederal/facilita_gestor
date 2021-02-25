@@ -1,0 +1,486 @@
+[15-Jul-2019 16:57:05 UTC] PHP Warning:  mysqli_connect(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[15-Jul-2019 16:57:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[15-Jul-2019 16:57:05 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 35
+[15-Jul-2019 16:57:05 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[13-Aug-2019 19:29:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[13-Aug-2019 19:29:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 21
+[13-Aug-2019 19:29:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[13-Aug-2019 19:29:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 35
+[13-Aug-2019 19:29:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[13-Aug-2019 19:29:23 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[13-Aug-2019 19:29:23 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 21
+[13-Aug-2019 19:29:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[13-Aug-2019 19:29:26 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 35
+[13-Aug-2019 19:29:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[13-Aug-2019 19:29:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[13-Aug-2019 19:29:27 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 21
+[13-Aug-2019 19:29:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[13-Aug-2019 19:29:29 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 35
+[13-Aug-2019 19:29:29 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[13-Aug-2019 19:29:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[13-Aug-2019 19:29:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 21
+[13-Aug-2019 19:29:33 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[13-Aug-2019 19:29:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 35
+[13-Aug-2019 19:29:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[13-Aug-2019 19:29:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[13-Aug-2019 19:29:34 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 21
+[13-Aug-2019 19:29:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Conn.php on line 6
+[13-Aug-2019 19:29:37 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 35
+[13-Aug-2019 19:29:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/_class/Crud.php on line 57
+[03-Oct-2019 11:19:52 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 283
+[03-Oct-2019 11:19:52 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 283
+[03-Oct-2019 11:19:52 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 294
+[03-Oct-2019 11:19:52 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 294
+[03-Oct-2019 11:20:57 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 283
+[03-Oct-2019 11:20:57 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 283
+[03-Oct-2019 11:20:57 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 294
+[03-Oct-2019 11:20:57 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 294
+[03-Oct-2019 11:26:37 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 283
+[03-Oct-2019 11:26:37 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 283
+[03-Oct-2019 11:26:37 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 294
+[03-Oct-2019 11:26:37 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 294
+[14-Oct-2019 20:51:29 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 20:51:29 UTC] PHP Warning:  SimpleXMLElement::__construct(): Can't find URL mapping for |/sibar/ManutencaoCobrancaBancaria/Boleto/Externo| in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 20:51:29 UTC] PHP Warning:  SimpleXMLElement::__construct(): ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 20:51:29 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php:64
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/reg_massa.php(243): Caixa->realizarRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 64
+[14-Oct-2019 22:07:38 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Start tag expected, '&lt;' not found in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 22:07:38 UTC] PHP Warning:  SimpleXMLElement::__construct(): Can't find URL mapping for |/sibar/ManutencaoCobrancaBancaria/Boleto/Externo| in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 22:07:38 UTC] PHP Warning:  SimpleXMLElement::__construct(): ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 22:07:38 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php:64
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/reg_massa.php(243): Caixa->realizarRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 64
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 8: parser error : Entity 'nbsp' not defined in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct(): equest &lt;em&gt;&lt;a href=&quot;/sibar/ManutencaoCobrancaBancaria/Boleto/Externo&quot;&gt;POST&amp;nbsp; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 60
+[14-Oct-2019 23:02:25 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php:64
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/reg_massa.php(243): Caixa->realizarRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/lib11/Caixa.php on line 64
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 8: parser error : Entity 'nbsp' not defined in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct(): ndle the request &lt;em&gt;&lt;a href=&quot;/sibar/ConsultaCobrancaBancaria/Boleto&quot;&gt;POST&amp;nbsp; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:29:14 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php:47
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php(281): ConsultaBoleto->consultaRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 47
+[25-Oct-2019 13:30:15 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:15 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:15 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:15 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:15 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:15 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:15 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:15 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:15 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:15 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php:47
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php(281): ConsultaBoleto->consultaRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 47
+[25-Oct-2019 13:30:17 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:17 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:17 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:17 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:17 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:17 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:17 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:17 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:17 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:17 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php:47
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php(281): ConsultaBoleto->consultaRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 47
+[25-Oct-2019 13:30:18 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:18 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:18 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:18 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:18 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:18 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:18 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:18 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:18 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:18 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php:47
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php(281): ConsultaBoleto->consultaRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 47
+[25-Oct-2019 13:30:19 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:19 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:19 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:19 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:19 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:19 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:19 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:19 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:19 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:19 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php:47
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php(281): ConsultaBoleto->consultaRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 47
+[25-Oct-2019 13:30:21 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:21 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:21 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:21 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:21 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:21 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:21 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:21 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:21 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:30:21 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php:47
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php(281): ConsultaBoleto->consultaRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 47
+[25-Oct-2019 13:31:22 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:31:22 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:31:22 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:31:22 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:31:22 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:31:22 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:31:22 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:31:22 UTC] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:31:22 UTC] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[25-Oct-2019 13:31:22 UTC] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php:47
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php(281): ConsultaBoleto->consultaRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 47
+[26-Nov-2019 15:59:45 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 283
+[26-Nov-2019 15:59:45 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 283
+[26-Nov-2019 15:59:45 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 294
+[26-Nov-2019 15:59:45 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 294
+[06-Mar-2020 17:00:27 America/Sao_Paulo] PHP Fatal error:  Call to undefined function Read() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/reg_massa.php on line 16
+[06-Mar-2020 17:00:29 America/Sao_Paulo] PHP Fatal error:  Call to undefined function Read() in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/reg_massa.php on line 16
+[17-Apr-2020 13:00:28 America/Sao_Paulo] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 283
+[17-Apr-2020 13:00:28 America/Sao_Paulo] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 283
+[17-Apr-2020 13:00:28 America/Sao_Paulo] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 294
+[17-Apr-2020 13:00:28 America/Sao_Paulo] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php on line 294
+[05-May-2020 10:25:05 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:05 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:05 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:05 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:05 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:05 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:05 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:05 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:05 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:05 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php:47
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php(281): ConsultaBoleto->consultaRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 47
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 8: parser error : Entity 'nbsp' not defined in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): ndle the request &lt;em&gt;&lt;a href=&quot;/sibar/ConsultaCobrancaBancaria/Boleto&quot;&gt;POST&amp;nbsp; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:06 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php:47
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php(281): ConsultaBoleto->consultaRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 47
+[05-May-2020 10:25:31 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:31 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:31 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:31 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:31 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:31 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:31 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:31 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:31 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:31 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php:47
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php(281): ConsultaBoleto->consultaRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 47
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Space required after the Public Identifier in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SystemLiteral &quot; or ' expected in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : SYSTEM or PUBLIC, the URI is missing in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): &lt;!DOCTYPE HTML PUBLIC &quot;-//IETF//DTD HTML 2.0//EN&quot;&gt; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                  ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 8: parser error : Entity 'nbsp' not defined in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct(): ndle the request &lt;em&gt;&lt;a href=&quot;/sibar/ConsultaCobrancaBancaria/Boleto&quot;&gt;POST&amp;nbsp; in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Warning:  SimpleXMLElement::__construct():                                                                                ^ in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 43
+[05-May-2020 10:25:33 America/Sao_Paulo] PHP Fatal error:  Uncaught exception 'Exception' with message 'String could not be parsed as XML' in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php:47
+Stack trace:
+#0 /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/index.php(281): ConsultaBoleto->consultaRegistro()
+#1 {main}
+  thrown in /home/federalsistemas/sistemas.federalsistemas.com.br/facilita_gestor/caixa-webservice-master/_api/ConsultaBoleto.class.php on line 47
+[26-Jun-2020 13:11:31 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[26-Jun-2020 13:11:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 35
+[26-Jun-2020 13:11:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 57
+[26-Jun-2020 13:11:36 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[26-Jun-2020 13:11:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 35
+[26-Jun-2020 13:11:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 57
+[16-Jul-2020 11:05:26 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[16-Jul-2020 11:05:26 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[16-Jul-2020 11:05:26 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[16-Jul-2020 11:05:26 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[16-Jul-2020 11:08:13 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[16-Jul-2020 11:08:13 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[16-Jul-2020 11:08:13 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[16-Jul-2020 11:08:13 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 12:06:00 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 12:06:00 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 12:06:00 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 12:06:00 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 17:36:19 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 17:36:19 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 17:36:19 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 17:36:19 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 17:53:35 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 17:53:35 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 17:53:35 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 17:53:35 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 17:53:43 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 17:53:43 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 17:53:43 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 17:53:43 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 17:56:20 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 17:56:20 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 17:56:20 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 17:56:20 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 17:56:23 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 17:56:23 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Jul-2020 17:56:23 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 17:56:23 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Jul-2020 17:56:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[22-Jul-2020 17:56:51 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[22-Jul-2020 17:56:51 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[28-Jul-2020 16:17:48 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[28-Jul-2020 16:17:48 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[28-Jul-2020 16:17:48 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[28-Jul-2020 16:17:48 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[28-Jul-2020 16:17:58 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[28-Jul-2020 16:17:58 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[28-Jul-2020 16:17:58 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[28-Jul-2020 16:17:58 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[30-Jul-2020 13:30:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[30-Jul-2020 13:30:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[30-Jul-2020 13:30:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[30-Jul-2020 14:01:58 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[30-Jul-2020 14:01:58 UTC] PHP Warning:  SimpleXMLElement::__construct(): Can't find URL mapping for |/sibar/ManutencaoCobrancaBancaria/Boleto/Externo| in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[30-Jul-2020 14:01:58 UTC] PHP Warning:  SimpleXMLElement::__construct(): ^ in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[30-Jul-2020 14:01:58 UTC] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php:44
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php(286): RegistraBoleto->realizarRegistro()
+#1 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 44
+[30-Jul-2020 17:11:21 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[30-Jul-2020 17:11:21 UTC] PHP Warning:  SimpleXMLElement::__construct(): Can't find URL mapping for |/sibar/ManutencaoCobrancaBancaria/Boleto/Externo| in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[30-Jul-2020 17:11:21 UTC] PHP Warning:  SimpleXMLElement::__construct(): ^ in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[30-Jul-2020 17:11:21 UTC] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php:44
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php(286): RegistraBoleto->realizarRegistro()
+#1 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 44
+[30-Jul-2020 17:11:45 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[30-Jul-2020 17:11:45 UTC] PHP Warning:  SimpleXMLElement::__construct(): Can't find URL mapping for |/sibar/ManutencaoCobrancaBancaria/Boleto/Externo| in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[30-Jul-2020 17:11:45 UTC] PHP Warning:  SimpleXMLElement::__construct(): ^ in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[30-Jul-2020 17:11:45 UTC] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php:44
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php(286): RegistraBoleto->realizarRegistro()
+#1 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 44
+[30-Jul-2020 19:05:43 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[30-Jul-2020 19:05:43 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[30-Jul-2020 19:05:43 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[30-Jul-2020 19:05:43 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[30-Jul-2020 19:16:46 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[30-Jul-2020 19:16:46 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[30-Jul-2020 19:16:46 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[30-Jul-2020 19:16:46 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[31-Jul-2020 17:58:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[31-Jul-2020 17:58:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[31-Jul-2020 17:58:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[03-Aug-2020 13:08:15 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[03-Aug-2020 13:08:15 UTC] PHP Warning:  SimpleXMLElement::__construct(): Can't find URL mapping for |/sibar/ManutencaoCobrancaBancaria/Boleto/Externo| in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[03-Aug-2020 13:08:15 UTC] PHP Warning:  SimpleXMLElement::__construct(): ^ in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[03-Aug-2020 13:08:15 UTC] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php:44
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php(286): RegistraBoleto->realizarRegistro()
+#1 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 44
+[03-Aug-2020 18:04:32 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[03-Aug-2020 18:04:32 UTC] PHP Warning:  SimpleXMLElement::__construct(): Can't find URL mapping for |/sibar/ManutencaoCobrancaBancaria/Boleto/Externo| in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[03-Aug-2020 18:04:32 UTC] PHP Warning:  SimpleXMLElement::__construct(): ^ in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[03-Aug-2020 18:04:32 UTC] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php:44
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php(286): RegistraBoleto->realizarRegistro()
+#1 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 44
+[03-Aug-2020 18:35:26 UTC] PHP Warning:  SimpleXMLElement::__construct(): Entity: line 1: parser error : Start tag expected, '<' not found in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[03-Aug-2020 18:35:26 UTC] PHP Warning:  SimpleXMLElement::__construct(): Can't find URL mapping for |/sibar/ManutencaoCobrancaBancaria/Boleto/Externo| in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[03-Aug-2020 18:35:26 UTC] PHP Warning:  SimpleXMLElement::__construct(): ^ in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 40
+[03-Aug-2020 18:35:26 UTC] PHP Fatal error:  Uncaught Exception: String could not be parsed as XML in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php:44
+Stack trace:
+#0 /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php(286): RegistraBoleto->realizarRegistro()
+#1 {main}
+  thrown in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/_api/RegistraBoleto.class.php on line 44
+[03-Aug-2020 19:30:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[03-Aug-2020 19:30:06 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[03-Aug-2020 19:30:06 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[04-Aug-2020 13:56:41 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[04-Aug-2020 13:56:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[04-Aug-2020 13:56:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[04-Aug-2020 19:30:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[04-Aug-2020 19:30:10 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[04-Aug-2020 19:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[21-Aug-2020 17:43:05 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[21-Aug-2020 17:43:05 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[21-Aug-2020 17:43:05 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[21-Aug-2020 17:43:05 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Sep-2020 18:06:30 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Sep-2020 18:06:30 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Sep-2020 18:06:30 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Sep-2020 18:06:30 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[10-Sep-2020 19:11:37 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[10-Sep-2020 19:11:37 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[10-Sep-2020 19:11:37 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[10-Sep-2020 19:11:37 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[10-Sep-2020 19:11:41 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[10-Sep-2020 19:11:41 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[10-Sep-2020 19:11:41 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[10-Sep-2020 19:11:41 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[10-Sep-2020 19:11:44 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[10-Sep-2020 19:11:44 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[10-Sep-2020 19:11:44 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[10-Sep-2020 19:11:44 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[10-Sep-2020 19:11:50 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[10-Sep-2020 19:11:50 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[10-Sep-2020 19:11:50 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[10-Sep-2020 19:11:50 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[10-Sep-2020 19:12:01 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[10-Sep-2020 19:12:01 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[10-Sep-2020 19:12:01 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[10-Sep-2020 19:12:01 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[23-Oct-2020 17:56:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[23-Oct-2020 17:56:48 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[23-Oct-2020 17:56:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[05-Nov-2020 19:57:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[05-Nov-2020 19:57:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[05-Nov-2020 19:57:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[12-Nov-2020 15:58:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[12-Nov-2020 15:58:18 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[12-Nov-2020 15:58:18 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[17-Nov-2020 17:18:59 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[17-Nov-2020 17:18:59 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[17-Nov-2020 17:18:59 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[17-Nov-2020 17:18:59 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[17-Nov-2020 17:19:01 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[17-Nov-2020 17:19:01 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[17-Nov-2020 17:19:01 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[17-Nov-2020 17:19:01 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[17-Nov-2020 17:19:11 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[17-Nov-2020 17:19:11 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[17-Nov-2020 17:19:11 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[17-Nov-2020 17:19:11 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[25-Nov-2020 11:57:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[25-Nov-2020 11:57:08 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[25-Nov-2020 11:57:08 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[25-Nov-2020 11:57:11 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[25-Nov-2020 11:57:11 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[25-Nov-2020 11:57:11 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[04-Dec-2020 11:56:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[04-Dec-2020 11:56:02 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[04-Dec-2020 11:56:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[07-Dec-2020 11:30:14 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[07-Dec-2020 11:30:14 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[07-Dec-2020 11:30:14 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[07-Dec-2020 11:56:22 UTC] PHP Warning:  mysqli_connect(): MySQL server has gone away in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[07-Dec-2020 11:56:22 UTC] PHP Warning:  mysqli_connect(): Error while reading greeting packet. PID=25493 in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[07-Dec-2020 11:56:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2006): MySQL server has gone away in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[07-Dec-2020 11:56:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[07-Dec-2020 11:56:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[07-Dec-2020 11:56:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[07-Dec-2020 11:56:25 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[07-Dec-2020 11:56:25 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[15-Dec-2020 17:39:28 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[15-Dec-2020 17:39:28 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[15-Dec-2020 17:39:28 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[15-Dec-2020 17:39:28 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[04-Feb-2021 14:07:59 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[04-Feb-2021 14:07:59 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[04-Feb-2021 14:07:59 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[04-Feb-2021 14:07:59 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Feb-2021 12:59:12 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Feb-2021 12:59:12 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Feb-2021 12:59:12 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Feb-2021 12:59:12 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Feb-2021 12:59:20 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Feb-2021 12:59:20 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Feb-2021 12:59:20 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Feb-2021 12:59:20 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Feb-2021 12:59:25 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Feb-2021 12:59:25 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Feb-2021 12:59:25 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Feb-2021 12:59:25 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Feb-2021 17:30:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[09-Feb-2021 17:30:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[09-Feb-2021 17:30:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
+[09-Feb-2021 18:08:46 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Feb-2021 18:08:46 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Feb-2021 18:08:46 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Feb-2021 18:08:46 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Feb-2021 18:08:52 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Feb-2021 18:08:52 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[09-Feb-2021 18:08:52 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[09-Feb-2021 18:08:52 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Feb-2021 19:41:22 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Feb-2021 19:41:22 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Feb-2021 19:41:22 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Feb-2021 19:41:22 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Feb-2021 19:41:26 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Feb-2021 19:41:26 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Feb-2021 19:41:26 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Feb-2021 19:41:26 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Feb-2021 19:41:29 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Feb-2021 19:41:29 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Feb-2021 19:41:29 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Feb-2021 19:41:29 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Feb-2021 19:41:43 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Feb-2021 19:41:43 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 283
+[22-Feb-2021 19:41:43 UTC] PHP Warning:  Illegal string offset 'CONTROLE_NEGOCIAL' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[22-Feb-2021 19:41:43 UTC] PHP Warning:  Illegal string offset 'COD_RETORNO' in /home/federals/public_html/sis/facilita_gestor/caixa-webservice-master/index.php on line 294
+[23-Feb-2021 15:30:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/federals/public_html/sis/facilita_gestor/_class/Conn.php on line 6
+[23-Feb-2021 15:30:09 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 37
+[23-Feb-2021 15:30:09 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/federals/public_html/sis/facilita_gestor/_class/Crud.php on line 59
